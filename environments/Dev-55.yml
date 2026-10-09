@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "55"
+mappingDefinitions:
+  SRC:
+    database: MY_DATABASE
+    schema: AIDE_STAGGING
+  TARGET:
+    database: MY_DATABASE
+    schema: AIDE_DATASTORE
+name: Dev
+type: Environment
