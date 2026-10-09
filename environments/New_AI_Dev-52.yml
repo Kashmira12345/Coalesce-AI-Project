@@ -1,5 +1,11 @@
 fileVersion: 1
 id: "52"
-mappingDefinitions: {}
+mappingDefinitions:
+  SRC:
+    database: MY_DATABASE
+    schema: AIDE_STAGGING
+  TARGET:
+    database: MY_DATABASE
+    schema: AIDE_DATASTORE
 name: New_AI_Dev
 type: Environment
